@@ -1,0 +1,13 @@
+{
+"companyName": "Woofs of Wall Street",
+"productName": "Woof Side Story (6.073 Project 3)",
+"dataUrl": "WoofSideStoryOnline.data.unityweb",
+"asmCodeUrl": "WoofSideStoryOnline.asm.code.unityweb",
+"asmMemoryUrl": "WoofSideStoryOnline.asm.memory.unityweb",
+"asmFrameworkUrl": "WoofSideStoryOnline.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
